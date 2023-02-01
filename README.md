@@ -16,3 +16,4 @@ For this week project I created a calender planner with existing code. I impleme
 ![Screenshot_20230131_102258](https://user-images.githubusercontent.com/95009568/215967287-28e30e49-948c-41f0-9631-f2013141cecc.png)
 
 # Deployed url link
+https://oppedrawen.github.io/SchedulePlanner/
